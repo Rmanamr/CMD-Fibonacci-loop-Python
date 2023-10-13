@@ -3,14 +3,14 @@ Python CMD program for printing Fibonacci series from 0 to input value(number_Of
 using Python version 3.11.4  
 
 Run the program using :  
-CMD_Fibonacci_loop.exe  
-or typing :  
-"python CMD_Fibonacci_loop.py" in Windows CMD  
-while CMD is in the CMD-Fibonacci-loop.py directory  
+CMD_Fibonacci_Loop.exe  
+or using :  
+"python CMD_Fibonacci_Loop.py" in Windows CMD  
+while CMD is in the CMD-Fibonacci-loop-Python directory  
 
 You can see the program document using :  
-"python -m pydoc CMD_Fibonacci_loop"  
- while CMD is in the CMD-Fibonacci-loop.py directory  
+"python -m pydoc CMD_Fibonacci_Loop"  
+ while CMD is in the CMD-Fibonacci-loop-Python directory  
   
 Feel free to contact me at:  
 @ armanazarnik@gmail.com
