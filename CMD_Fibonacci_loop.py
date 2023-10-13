@@ -34,9 +34,9 @@ def Fibonacci_Serie_Generator_Loop(number):
     @rtype: array of integers
     @examples: 
      >>> Fibonacci_Serie_Generator_Loop(0)
-          []
+         []
      >>> Fibonacci_Serie_Generator_Loop(5)
-          [0, 1, 1, 2, 3]
+         [0, 1, 1, 2, 3]
     """
     Fibonacci_Series = [None]*(number)
     # initializing an empty array with lenght of number
